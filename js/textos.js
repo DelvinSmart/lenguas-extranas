@@ -24,11 +24,8 @@ const TEXTOS = {
     ],
     ybien: "Y bien!",
     anterior: "← Anterior", siguiente: "Siguiente →", mapa: "Mapa ↑",
-    escucharPunto: "▶ Escuchar este punto", escucharTodo: "▶ Escuchar todo desde aquí",
-    pausa: "❚❚ Pausa", seguir: "▶ Seguir", detener: "■ Detener",
-    velocidad: "Velocidad", voz: "Voz", lenta: "Lenta", normal: "Normal", rapida: "Rápida",
     nuevo: "nuevo",
-    ayuda: "Toca cualquier punto del mapa, o usa ← → en el teclado para avanzar en orden. Con “Escuchar” el dispositivo te lo lee en voz alta.",
+    ayuda: "Toca cualquier punto del mapa, o usa ← → en el teclado para avanzar en orden.",
     pdf: "Descargar PDF", pdfArchivo: "descargas/Mapa-Lenguas-extranas.pdf"
   },
   pt: {
@@ -41,11 +38,8 @@ const TEXTOS = {
     ],
     ybien: "E então!",
     anterior: "← Anterior", siguiente: "Próximo →", mapa: "Mapa ↑",
-    escucharPunto: "▶ Ouvir este ponto", escucharTodo: "▶ Ouvir tudo a partir daqui",
-    pausa: "❚❚ Pausa", seguir: "▶ Continuar", detener: "■ Parar",
-    velocidad: "Velocidade", voz: "Voz", lenta: "Lenta", normal: "Normal", rapida: "Rápida",
     nuevo: "novo",
-    ayuda: "Toque em qualquer ponto do mapa, ou use ← → no teclado para avançar em ordem. Com “Ouvir” o aparelho lê em voz alta para você.",
+    ayuda: "Toque em qualquer ponto do mapa, ou use ← → no teclado para avançar em ordem.",
     pdf: "Baixar PDF", pdfArchivo: "descargas/Mapa-Linguas-estranhas.pdf"
   }
 };
