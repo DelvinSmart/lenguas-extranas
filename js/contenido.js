@@ -80,6 +80,17 @@ ${H("Hechos 2:1-11 LBLA",[
 <p>De repente, el Espíritu Santo desciende sobre los discípulos —aquellos galileos humildes que solo conocían su idioma local— y ocurre algo extraordinario: empiezan a hablar de forma fluida y perfecta en los idiomas de todos esos extranjeros que venían de afuera. Cuando los visitantes escuchan a gente de pueblo hablarles exactamente en el idioma en el que ellos crecieron en el extranjero, se quedan completamente asombrados. <b>El milagro no fue emitir balbuceos ininteligibles, sino comunicación perfecta y real para que todos pudieran entender el mensaje de Dios sin barreras de lenguaje.</b></p>` },
     { label:"La Torre de Babel", nuevo:true, html:`
 <p>Y esto no se queda solo en Hechos 2. Para entenderlo completo tenemos que volver a Génesis 11, a la Torre de Babel.</p>
+${H("Génesis 11:1-9 LBLA",[
+["1","Toda la tierra hablaba la misma lengua y las mismas palabras."],
+["2","Y aconteció que según iban hacia el oriente, hallaron una llanura en la tierra de Sinar, y se establecieron allí."],
+["3","Y se dijeron unos a otros: Vamos, fabriquemos ladrillos y cozámos<i>los</i> bien. Y usaron ladrillo en lugar de piedra, y asfalto en lugar de mezcla."],
+["4","Y dijeron: Vamos, edifiquémonos una ciudad y una torre cuya cúspide <i>llegue</i> hasta los cielos, y hagámonos un nombre <i>famoso</i>, para que no seamos dispersados sobre la faz de toda la tierra."],
+["5","Y el <span class='sc'>Señor</span> descendió para ver la ciudad y la torre que habían edificado los hijos de los hombres."],
+["6","Y dijo el <span class='sc'>Señor</span>: He aquí, son un solo pueblo y todos ellos tienen la misma lengua. Y esto es lo que han comenzado a hacer, y ahora nada de lo que se propongan hacer les será imposible."],
+["7","Vamos, bajemos y allí confundamos su lengua, para que nadie entienda el lenguaje del otro."],
+["8","Así los dispersó el <span class='sc'>Señor</span> desde allí sobre la faz de toda la tierra, y dejaron de edificar la ciudad."],
+["9","Por eso fue llamada Babel, porque allí confundió el <span class='sc'>Señor</span> la lengua de toda la tierra; y de allí los dispersó el <span class='sc'>Señor</span> sobre la faz de toda la tierra."]
+])}
 <p>Allí toda la tierra hablaba un mismo idioma, y el pueblo se unió para construir una ciudad y una torre que llegara hasta el cielo, para hacerse un nombre y no ser dispersados por toda la tierra (Génesis 11:1-4). O sea, estaban unidos, sí, pero unidos para edificar algo que no edificaba a Dios, sino a ellos mismos. Y eso después que Dios les había mandado a llenar la tierra (Génesis 9:1).</p>
 <p>Entonces Dios descendió, confundió su lengua para que no se entendieran unos a otros, y los dispersó por toda la tierra (Génesis 11:5-9). Fue por causa de su maldad, para que no siguieran creciendo en ella.</p>
 <p>Las tradiciones judías antiguas cuentan cosas impresionantes de esa torre. Una de ellas, el <i>Pirkei de-Rabbi Eliezer</i>, dice que era tan alta que tardaban un año en subir, y que si se caía un ladrillo lloraban, pero si se caía un hombre no les importaba. Eso no está en la Biblia, es tradición, pero nos deja imaginar la locura de un pueblo unido en una misma lengua para edificar algo que no edifica al Señor.</p>` },

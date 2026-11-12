@@ -35,3 +35,4 @@ h1{font-family:var(--display);font-weight:800;font-size:34pt;margin:0 0 8px}
 .page{width:100%;border-collapse:collapse}
 .page td{padding:0 15mm}
 .page thead td,.page tfoot td{height:14mm}
+.sc{font-variant:small-caps}
