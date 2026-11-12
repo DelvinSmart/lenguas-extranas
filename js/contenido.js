@@ -3,12 +3,22 @@
 const H = (ref, verses) => `<div class="passage"><div class="ref">${ref}</div>${verses.map(([n,t]) => `<p><b>${n}</b>${t}</p>`).join("")}</div>`;
 
 const BRANCHES = [
-  { title:"El término original", sub:"La palabra", color:"--b2", leaves:[
+  { title:"Etimología del término", sub:"El origen de la palabra", color:"--b2", leaves:[
     { label:"“extrañas” · glōssa", html:`
 <p>Si Vamos a los textos originales, vemos que la palabra <b>"extrañas"</b> o <b>"desconocidas"</b></p>
 <p>Referente a este término, no existe en las Escrituras; ellas fueron injertada posteriormente por algunos traductores.</p>
 <p>(En 1 Corintios 14:21, donde la traducción dice "lenguas extrañas", el griego usa <i>heteroglōssois</i>, que significa "de otras lenguas", o sea, idiomas de otros pueblos; Pablo está citando a Isaías 28:11.)</p>
-<p>El término griego empleado es <span class="g">glōssa</span>, lo que quiere decir literalmente <b>"lengua" o "idioma humano"</b>.</p>` }
+<p>El término griego empleado es <span class="g">glōssa</span>, lo que quiere decir literalmente <b>"lengua" o "idioma humano"</b>.</p>` },
+    { label:"Una palabra, varios sentidos", nuevo:true, html:`
+<p>Y aquí está la clave de todo: la etimología, o sea, el origen de la palabra. Cuando buscamos la etimología de un término, sabemos su verdadero significado, y no lo que le fueron añadiendo con el tiempo.</p>
+<p>La misma palabra <span class="g">glōssa</span> se usa en la Biblia con más de un sentido:</p>
+<ol>
+<li><b>La lengua del cuerpo</b>, el órgano con el que hablamos (Santiago 3:5-6).</li>
+<li><b>Un idioma humano</b>, como en Hechos 2:4 y 2:11.</li>
+<li><b>Una forma o apariencia</b>, como las “lenguas como de fuego” de Hechos 2:3.</li>
+</ol>
+<p>Y fíjense en algo: en Hechos 2:4 dice que hablaron en otras lenguas (<span class="g">glōssa</span>), y en los versículos 6 y 8 la gente dice que los oía hablar en su propia lengua, y ahí el griego usa <span class="g">diálektos</span>, de donde viene nuestra palabra “dialecto”. O sea, Lucas usa las dos palabras para lo mismo: las lenguas de Pentecostés eran idiomas y dialectos reales.</p>
+<p><b>Por eso, cuando la palabra se usa correctamente, en su contexto, el texto se entiende solo. El problema empieza cuando a una palabra que tiene dos o tres sentidos le escogemos el que no es.</b></p>` }
   ]},
   { title:"Paréntesis: cómo nos llegó el texto", sub:"La traducción", color:"--b3", leaves:[
     { label:"Hebreo y griego koiné", html:`
@@ -67,7 +77,22 @@ ${H("Hechos 2:1-11 LBLA",[
 <p>Eran los judíos de la dispersión (la diáspora). Tenían la misma fe y la misma sangre, pero habían nacido y crecido en el extranjero (en Egipto, Roma, Mesopotamia, etc.). Por lo tanto, aunque eran culturalmente judíos, su idioma materno ya no era el arameo o el hebreo antiguo de Jerusalén, sino los dialectos e idiomas de los países donde habían crecido. Habían viajado a Jerusalén únicamente para celebrar la fiesta religiosa.</p>` },
     { label:"3. El gran milagro", html:`
 <h3>3. El gran milagro:</h3>
-<p>De repente, el Espíritu Santo desciende sobre los discípulos —aquellos galileos humildes que solo conocían su idioma local— y ocurre algo extraordinario: empiezan a hablar de forma fluida y perfecta en los idiomas de todos esos extranjeros que venían de afuera. Cuando los visitantes escuchan a gente de pueblo hablarles exactamente en el idioma en el que ellos crecieron en el extranjero, se quedan completamente asombrados. <b>El milagro no fue emitir balbuceos ininteligibles, sino comunicación perfecta y real para que todos pudieran entender el mensaje de Dios sin barreras de lenguaje.</b></p>` }
+<p>De repente, el Espíritu Santo desciende sobre los discípulos —aquellos galileos humildes que solo conocían su idioma local— y ocurre algo extraordinario: empiezan a hablar de forma fluida y perfecta en los idiomas de todos esos extranjeros que venían de afuera. Cuando los visitantes escuchan a gente de pueblo hablarles exactamente en el idioma en el que ellos crecieron en el extranjero, se quedan completamente asombrados. <b>El milagro no fue emitir balbuceos ininteligibles, sino comunicación perfecta y real para que todos pudieran entender el mensaje de Dios sin barreras de lenguaje.</b></p>` },
+    { label:"La Torre de Babel", nuevo:true, html:`
+<p>Y esto no se queda solo en Hechos 2. Para entenderlo completo tenemos que volver a Génesis 11, a la Torre de Babel.</p>
+<p>Allí toda la tierra hablaba un mismo idioma, y el pueblo se unió para construir una ciudad y una torre que llegara hasta el cielo, para hacerse un nombre y no ser dispersados por toda la tierra (Génesis 11:1-4). O sea, estaban unidos, sí, pero unidos para edificar algo que no edificaba a Dios, sino a ellos mismos. Y eso después que Dios les había mandado a llenar la tierra (Génesis 9:1).</p>
+<p>Entonces Dios descendió, confundió su lengua para que no se entendieran unos a otros, y los dispersó por toda la tierra (Génesis 11:5-9). Fue por causa de su maldad, para que no siguieran creciendo en ella.</p>
+<p>Las tradiciones judías antiguas cuentan cosas impresionantes de esa torre. Una de ellas, el <i>Pirkei de-Rabbi Eliezer</i>, dice que era tan alta que tardaban un año en subir, y que si se caía un ladrillo lloraban, pero si se caía un hombre no les importaba. Eso no está en la Biblia, es tradición, pero nos deja imaginar la locura de un pueblo unido en una misma lengua para edificar algo que no edifica al Señor.</p>` },
+    { label:"Babel y Pentecostés", nuevo:true, html:`
+<p>Ahora, fíjense en la comparación, porque es bien profunda: el mismo Dios que confundió las lenguas en Babel es el que, en Pentecostés, usa esas mismas lenguas para unir a su pueblo.</p>
+<ul>
+<li><b>En Babel</b>, los hombres querían hacerse un nombre para ellos. <b>En Pentecostés</b>, hablaban de las maravillas de Dios (Hechos 2:11).</li>
+<li><b>En Babel</b>, las lenguas separaron a los pueblos y los dispersaron. <b>En Pentecostés</b>, gente de todas las naciones se juntó en un mismo lugar y entendió un mismo mensaje (Hechos 2:5-6).</li>
+<li><b>En Babel</b>, nadie entendía a nadie. <b>En Pentecostés</b>, cada uno entendía en su propio idioma.</li>
+</ul>
+<p>Y aquí viene algo del griego que es bien fuerte. En la traducción griega del Antiguo Testamento, la Septuaginta, cuando Dios dice en Génesis 11:7 “confundamos su lengua”, la palabra es <span class="g">synchéō</span>, y a Babel la llama <span class="g">Sýnchysis</span>, que quiere decir “Confusión” (Génesis 11:9). Y en Hechos 2:6, cuando dice que la multitud estaba desconcertada, Lucas usa ese mismo verbo: <span class="g">synechýthē</span>. La misma palabra de Babel, pero ahora Dios la usa para bien.</p>
+<p>Pero ojo con un detalle: en Pentecostés Dios no borró los idiomas ni los volvió una sola lengua. Cada uno siguió oyendo su propio idioma, pero todos recibieron el mismo mensaje. Las lenguas de Babel fueron para separar; las de Pentecostés, para unir a la iglesia en adorar a Cristo. Desde los primeros siglos, maestros de la iglesia como Gregorio Nacianceno y Agustín de Hipona ya enseñaban que Pentecostés era lo contrario de Babel.</p>
+<p><b>Y esto prueba una vez más que las lenguas de Pentecostés eran idiomas humanos reales, los mismos idiomas que nacieron en Babel. Lo que Dios dividió en Babel por causa del pecado, lo usa en Pentecostés para que todas las naciones oigan el evangelio, como ya lo había anunciado el profeta en Sofonías 3:9.</b></p>` }
   ]},
   { title:"1 Corintios capítulo 14", sub:"Las directrices de Pablo", color:"--b5", leaves:[
     { label:"1 Corintios 14:1-25", html:`
