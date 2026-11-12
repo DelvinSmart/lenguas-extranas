@@ -50,8 +50,8 @@ ${HPT("Atos 2:1-11 ARA")}` },
 <p>Eram os crentes que estavam esperando a promessa do Espírito Santo.</p>` },
     { label:"v3 “línguas como de fogo”", html:`
 <ul><li><b>Segundo, v3 “línguas como de fogo”</b>: a palavra grega usada ali também é <span class="g">glōssa</span>, mas nesse contexto visual tem o sentido de “aparência ou forma”. Ou seja, chamas ou clarões de fogo que tinham uma forma parecida com a silhueta de uma língua.</li></ul>` },
-    { label:"v5 “de todas as nações”", html:`
-<ul><li><b>Terceiro, v5 “havia judeus que moravam em Jerusalém” “de todas as nações”</b></li></ul>` },
+    { label:"v5 “vindos de todas as nações”", html:`
+<ul><li><b>Terceiro, v5 “estavam habitando em Jerusalém judeus” “vindos de todas as nações”</b></li></ul>` },
     { label:"Exemplo: os venezuelanos", html:`
 <p>Para entender exatamente o que aconteceu no dia de Pentecostes e não ficar com ideias erradas, vamos dar um exemplo simples. Imaginemos os venezuelanos que, por vários motivos, saíram da sua terra e foram morar pelo mundo inteiro — nos Estados Unidos, na China, na Europa. Lá nasceram os filhos deles, e esses filhos já não aprenderam o espanhol do mesmo jeito, porque cresceram falando inglês, chinês ou o idioma do país onde nasceram. Então, mesmo levando a cultura e o sangue venezuelano, a língua materna deles já não é o espanhol, é outra.</p>
 <p>Levando esse exemplo para o contexto bíblico de Atos capítulo 2, a cena se divide em três pontos-chave:</p>` },
@@ -79,7 +79,7 @@ ${HPT("Gênesis 11:1-9 ARA")}
 <li><b>Em Babel</b>, ninguém entendia ninguém. <b>Em Pentecostes</b>, cada um entendia no seu próprio idioma.</li>
 <li><b>Em Babel</b>, as línguas serviram para que parassem de edificar. <b>Em Pentecostes</b>, serviram para edificar: era a fundação da igreja, que começou a partir dos apóstolos.</li>
 </ul>
-<p>E aqui vem algo do grego que é muito forte. Na tradução grega do Antigo Testamento, a Septuaginta, quando Deus diz em Gênesis 11:7 que vai confundir a linguagem deles, a palavra é <span class="g">synchéō</span>, e Babel é chamada de <span class="g">Sýnchysis</span>, que quer dizer “Confusão” (Gênesis 11:9). E em Atos 2:6, quando diz que a multidão ficou atônita, Lucas usa esse mesmo verbo: <span class="g">synechýthē</span>. A mesma palavra de Babel, mas agora Deus a usa para o bem.</p>
+<p>E aqui vem algo do grego que é muito forte. Na tradução grega do Antigo Testamento, a Septuaginta, quando Deus diz em Gênesis 11:7 que vai confundir a linguagem deles, a palavra é <span class="g">synchéō</span>, e Babel é chamada de <span class="g">Sýnchysis</span>, que quer dizer “Confusão” (Gênesis 11:9). E em Atos 2:6, quando diz que a multidão ficou perplexa, Lucas usa esse mesmo verbo: <span class="g">synechýthē</span>. A mesma palavra de Babel, mas agora Deus a usa para o bem.</p>
 <p>Mas atenção a um detalhe: em Pentecostes Deus não apagou os idiomas nem os transformou numa só língua. Cada um continuou ouvindo o seu próprio idioma, mas todos receberam a mesma mensagem. As línguas de Babel foram para separar; as de Pentecostes, para unir a igreja na adoração a Cristo. Desde os primeiros séculos, mestres da igreja como Gregório de Nazianzo e Agostinho de Hipona já ensinavam que Pentecostes era o contrário de Babel.</p>
 <p><b>E isso prova mais uma vez que as línguas de Pentecostes eram idiomas humanos reais, os mesmos idiomas que nasceram em Babel. O que Deus dividiu em Babel por causa do pecado, ele usa em Pentecostes para que todas as nações ouçam o evangelho, como o profeta já tinha anunciado em Sofonias 3:9.</b></p>
 ${HPT("Sofonias 3:9 ARA")}` }
@@ -101,13 +101,13 @@ ${HPT("Efésios 3:3-6 ARA")}` },
 <p>Na mente dos coríntios, isso era como um nível espiritual elevado: "Vejam como estou conectado com Deus, vejam como estou emocionado, que falo coisas que ninguém entende".</p>
 <p>E Paulo lhes diz: «Espere um momento. Se ninguém entende nada, para que serve? Para Deus não há segredos, ele sabe tudo; mas se você está numa reunião pública e o que você diz fica como um "mistério" que ninguém traduziu, para os outros é como se você estivesse falando com a parede».</p>
 <p><b>Por isso Paulo insiste que a fé cristã não é criar um clube de mistérios que ninguém explica, mas que tudo o que se fala na igreja seja claro, transparente e compreensível, para que todos aprendam e cresçam juntos.</b></p>` },
-    { label:"v9 “palavras compreensíveis”", html:`
+    { label:"v9 “palavra compreensível”", html:`
 <ul><li><b>Segundo, v9</b>: ${VPT("1 Coríntios 14:1-25 ARA", 9)}</li></ul>
 <p><b>Compreensível</b> é o oposto de <b>incompreensível</b>: algo claro, que se entende; do contrário, não se poderia traduzir.</p>
 <p>No grego original a palavra usada é <span class="g">eúsēmon</span> (de <i>eu</i>, "bem", e <i>sēma</i>, "sinal"), ou seja, uma palavra com significado claro<br>(no texto, a ideia é dar uma mensagem "fácil de entender" ou "bem articulada").</p>` },
     { label:"Almeida Revista e Corrigida", html:`
 <ul><li><b>Como a Almeida Revista e Corrigida (ARC) traduz?</b></li></ul>
-<p>A ARC traduz esse versículo de forma muito parecida e direta:</p>
+<p>A ARC traduz esse versículo de forma muito parecida e direta, e fala de “palavras bem inteligíveis”:</p>
 ${HPT("1 Coríntios 14:9 ARC")}` }
   ]},
   { title:"Fundamento histórico", sub:"De onde vem · Onde nasceu", color:"--b6", leaves:[
@@ -159,7 +159,17 @@ ${HPT("Gálatas 5:22-23 ARA")}
     { label:"O eunuco: creu e não falou em línguas", nuevo:true, html:`
 <p>E temos um exemplo bem claro em Atos 8: o eunuco etíope. Ele já vinha lendo as Escrituras, o livro de Isaías, e Filipe, guiado por um anjo do Senhor e pelo Espírito (Atos 8:26-29), chegou até ele e lhe anunciou o evangelho de Jesus.</p>
 ${HPT("Atos 8:35-39 ARA")}
-<p>Reparem: o eunuco creu, foi batizado e seguiu o seu caminho cheio de alegria. Alegria, que é fruto do Espírito. Mas o texto não diz em nenhum lugar que ele falou em línguas. E o mesmo Espírito que agia na vida dele foi o que levou Filipe até aquele caminho e depois o arrebatou dali.</p>
-<p>Um detalhe importante para o debate: o versículo 37 muitas Bíblias colocam entre colchetes ou em nota, porque não aparece nos manuscritos gregos mais antigos. Por isso não baseamos nada nesse versículo; o ponto se sustenta com os versículos 35, 36, 38 e 39.</p>` }
+<p>Reparem: o eunuco creu, foi batizado e seguiu o seu caminho cheio de júbilo. Júbilo, alegria, que é fruto do Espírito. Mas o texto não diz em nenhum lugar que ele falou em línguas. E o mesmo Espírito que agia na vida dele foi o que levou Filipe até aquele caminho e depois o arrebatou dali.</p>
+<p>Um detalhe importante para o debate: o versículo 37 a ARA coloca entre colchetes, porque não aparece nos manuscritos gregos mais antigos. Por isso não baseamos nada nesse versículo; o ponto se sustenta com os versículos 35, 36, 38 e 39.</p>` },
+    { label:"Espírito Santo e fogo", nuevo:true, html:`
+<p>E agora vamos a algo que se ouve muito nas igrejas: o “batismo de fogo”. Muitos pegam a frase de João Batista, “Ele vos batizará com o Espírito Santo e com fogo”, e a usam para dizer que esse fogo é falar em línguas ou um fogo que se sente no culto. Mas vamos ler o texto completo, no seu contexto.</p>
+${HPT("Mateus 3:7-12 ARA")}
+<p>Reparem com quem João está falando: com os fariseus e saduceus (v7). Ele os chama de raça de víboras e pergunta quem os induziu a fugir da ira vindoura. E reparem no fogo: no versículo 10, a árvore que não produz bom fruto é lançada ao fogo; no versículo 11, “com o Espírito Santo e com fogo”; e no versículo 12, a palha é queimada em fogo inextinguível. As três vezes o fogo está no mesmo contexto: o juízo sobre os que não se arrependem.</p>
+<p>Ou seja, João está falando de dois grupos: o trigo, que são os que se arrependem e recebem o Espírito Santo, e a palha, que são os que não dão fruto e vão para o fogo. É a mesma pá separando as duas coisas.</p>
+${HPT("Atos 1:5 ARA")}
+<p>E aqui está a prova mais forte: quando Jesus, já ressuscitado, repete essa promessa aos seus discípulos, diz “sereis batizados com o Espírito Santo”, e não menciona o fogo. Por quê? Porque os seus discípulos não iam receber o juízo; iam receber o Espírito.</p>
+<p>Para sermos honestos no debate: alguns intérpretes veem esse fogo como uma purificação do crente. Mas o contexto mostra juízo, e em nenhum lugar o texto diz que esse fogo seja falar em línguas. As “línguas como de fogo” de Atos 2:3 eram uma aparência, como já vimos: <i>como</i> de fogo.</p>
+<p>E essa ideia do “batismo de fogo” como uma experiência à parte também não vem dos apóstolos. Foi ensinada no fim do século XIX em alguns grupos de santidade, como a Associação de Santidade Batizada com Fogo, que Benjamin Irwin fundou em 1895, e dali passou para o movimento que começou em Topeka em 1901 e na Rua Azusa em 1906.</p>
+<p><b>Por isso, usar “Espírito Santo e fogo” para ensinar que é preciso falar em línguas ou sentir um fogo no culto é tirar o texto do seu contexto.</b></p>` }
   ]}
 ];

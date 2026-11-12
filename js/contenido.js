@@ -230,6 +230,25 @@ ${H("Hechos 8:35-39 LBLA",[
 ["39","Al salir ellos del agua, el Espíritu del Señor arrebató a Felipe; y no lo vio más el eunuco, que continuó su camino gozoso."]
 ])}
 <p>Fíjense: el eunuco creyó, fue bautizado y continuó su camino gozoso. Gozo, que es fruto del Espíritu. Pero el texto no dice en ninguna parte que habló en lenguas. Y el mismo Espíritu que obraba en su vida fue el que llevó a Felipe hasta ese camino y después lo arrebató de allí.</p>
-<p>Un detalle importante para el debate: el versículo 37 la LBLA lo pone entre corchetes, porque no aparece en los manuscritos griegos más antiguos. Por eso no basamos nada en ese versículo; el punto se sostiene con los versículos 35, 36, 38 y 39.</p>` }
+<p>Un detalle importante para el debate: el versículo 37 la LBLA lo pone entre corchetes, porque no aparece en los manuscritos griegos más antiguos. Por eso no basamos nada en ese versículo; el punto se sostiene con los versículos 35, 36, 38 y 39.</p>` },
+    { label:"Espíritu Santo y fuego", nuevo:true, html:`
+<p>Y ahora vamos a algo que se escucha mucho en las iglesias: el “bautismo de fuego”. Muchos toman la frase de Juan el Bautista, “Él os bautizará con el Espíritu Santo y con fuego”, y la usan para decir que ese fuego es hablar en lenguas o un fuego que se siente en el culto. Pero vamos a leer el texto completo, en su contexto.</p>
+${H("Mateo 3:7-12 LBLA",[
+["7","Pero cuando vio que muchos de los fariseos y saduceos venían para el bautismo, les dijo: ¡Camada de víboras! ¿Quién os enseñó a huir de la ira que vendrá?"],
+["8","Por tanto, dad frutos dignos de arrepentimiento;"],
+["9","y no presumáis que podéis deciros a vosotros mismos: «Tenemos a Abraham por padre», porque os digo que Dios puede levantar hijos a Abraham de estas piedras."],
+["10","Y el hacha ya está puesta a la raíz de los árboles; por tanto, todo árbol que no da buen fruto es cortado y echado al fuego."],
+["11","Yo a la verdad os bautizo con agua para arrepentimiento, pero el que viene detrás de mí es más poderoso que yo, a quien no soy digno de quitarle las sandalias; Él os bautizará con el Espíritu Santo y con fuego."],
+["12","El bieldo está en su mano y limpiará completamente su era; y recogerá su trigo en el granero, pero quemará la paja en fuego inextinguible."]
+])}
+<p>Fíjense a quién le está hablando Juan: a los fariseos y saduceos (v7). Los llama camada de víboras y les pregunta quién les enseñó a huir de la ira que vendrá. Y fíjense en el fuego: en el versículo 10, el árbol que no da buen fruto es echado al fuego; en el versículo 11, “con el Espíritu Santo y con fuego”; y en el versículo 12, la paja se quema en fuego inextinguible. Las tres veces el fuego está en el mismo contexto: el juicio sobre los que no se arrepienten.</p>
+<p>O sea, Juan está hablando de dos grupos: el trigo, que son los que se arrepienten y reciben el Espíritu Santo, y la paja, que son los que no dan fruto y van al fuego. Es el mismo bieldo separando las dos cosas.</p>
+${H("Hechos 1:5 LBLA",[
+["5","pues Juan bautizó con agua, pero vosotros seréis bautizados con el Espíritu Santo dentro de pocos días."]
+])}
+<p>Y aquí está la prueba más fuerte: cuando Jesús, ya resucitado, les repite esa promesa a sus discípulos, dice “seréis bautizados con el Espíritu Santo”, y no menciona el fuego. ¿Por qué? Porque sus discípulos no iban a recibir el juicio; iban a recibir el Espíritu.</p>
+<p>Para ser honestos en el debate: algunos intérpretes ven ese fuego como una purificación del creyente. Pero el contexto muestra juicio, y en ningún lugar el texto dice que ese fuego sea hablar en lenguas. Las “lenguas como de fuego” de Hechos 2:3 eran una apariencia, como ya vimos: <i>como</i> de fuego.</p>
+<p>Y esta idea del “bautismo de fuego” como una experiencia aparte tampoco viene de los apóstoles. Se enseñó a finales del siglo XIX en algunos grupos de santidad, como la Asociación de Santidad Bautizada con Fuego, que Benjamin Irwin fundó en 1895, y de ahí pasó al movimiento que comenzó en Topeka en 1901 y en la Calle Azusa en 1906.</p>
+<p><b>Por eso, usar “Espíritu Santo y fuego” para enseñar que hay que hablar en lenguas o sentir un fuego en el culto es sacar el texto de su contexto.</b></p>` }
   ]}
 ];
