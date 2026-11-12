@@ -111,3 +111,12 @@ body{margin:0}
   .audio label{margin-left:0}
   .audio button{padding:9px 10px}
 }
+
+/* Selector de idioma en la portada */
+.idiomas{position:absolute;top:16px;right:16px;display:flex;gap:4px}
+.idiomas a{font-size:12px;font-weight:700;letter-spacing:.06em;text-decoration:none;color:var(--muted);border:1.5px solid var(--line);border-radius:999px;padding:4px 10px}
+.idiomas a.on{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.audio label[hidden]{display:none}
+.audio select#aVoice{max-width:170px}
+.idiomas[hidden]{display:none}
+.root:has(.idiomas:not([hidden])) h1{padding-right:96px}

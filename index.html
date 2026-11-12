@@ -6,20 +6,19 @@
   <title>Lenguas extrañas?</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,600;0,800;1,400&family=Archivo:wght@400;500;600;700&display=swap">
-  <link rel="stylesheet" href="css/styles.css?v=8">
+  <link rel="stylesheet" href="css/styles.css?v=9">
 </head>
 <body>
 <div class="wrap">
   <section aria-label="Mapa">
     <div class="root" style="--c:var(--b1)">
-      <h1>Lenguas extrañas?</h1>
-      <ul>
-        <li>De dónde proviene?</li>
-        <li>Donde nació?</li>
-        <li>Y la pregunta más importante, ¿qué dice la Bíblia?</li>
-        <li>Qué fundamento bíblico tiene esta práctica que hoy se ve comúnmente dentro de las Iglesia?</li>
-      </ul>
-      <div class="ybien">Y bien!</div>
+      <div class="idiomas" id="idiomas" hidden>
+        <a href="?lang=es" data-lang="es">ES</a>
+        <a href="?lang=pt" data-lang="pt">PT</a>
+      </div>
+      <h1 id="titulo"></h1>
+      <ul id="preguntas"></ul>
+      <div class="ybien" id="ybien"></div>
     </div>
     <div class="tree" id="tree"></div>
   </section>
@@ -31,32 +30,38 @@
         <div class="rlabel" id="rlabel"></div>
       </div>
       <div class="nav">
-        <button id="prev" type="button" aria-label="Punto anterior">← Anterior</button>
+        <button id="prev" type="button"></button>
         <span class="pos" id="pos"></span>
-        <button id="next" type="button" aria-label="Punto siguiente">Siguiente →</button>
-        <button id="tomap" class="tomap" type="button" aria-label="Volver al mapa">Mapa ↑</button>
+        <button id="next" type="button"></button>
+        <button id="tomap" class="tomap" type="button"></button>
       </div>
       <div class="audio" id="audio">
-        <button id="aPlay" class="aprimary" type="button">▶ Escuchar este punto</button>
-        <button id="aAll" type="button">▶ Escuchar todo desde aquí</button>
-        <button id="aPause" class="aprimary" type="button" hidden>❚❚ Pausa</button>
-        <button id="aStop" type="button" hidden>■ Detener</button>
-        <label for="aRate">Velocidad
+        <button id="aPlay" class="aprimary" type="button"></button>
+        <button id="aAll" type="button"></button>
+        <button id="aPause" class="aprimary" type="button" hidden></button>
+        <button id="aStop" type="button" hidden></button>
+        <label for="aVoice"><span id="lVoz"></span>
+          <select id="aVoice"></select>
+        </label>
+        <label for="aRate"><span id="lVel"></span>
           <select id="aRate">
-            <option value="0.8">Lenta</option>
-            <option value="1" selected>Normal</option>
-            <option value="1.2">Rápida</option>
+            <option value="0.8" id="oLenta"></option>
+            <option value="0.95" id="oNormal" selected></option>
+            <option value="1.15" id="oRapida"></option>
           </select>
         </label>
       </div>
     </div>
     <div class="rbody" id="rbody"></div>
-    <div class="hint">Toca cualquier punto del mapa, o usa ← → en el teclado para avanzar en orden. Con “Escuchar” el dispositivo te lo lee en voz alta. <a href="descargas/Mapa-Lenguas-extranas.pdf">Descargar PDF</a></div>
+    <div class="hint"><span id="ayuda"></span> <a id="pdf" href="descargas/Mapa-Lenguas-extranas.pdf"></a></div>
   </aside>
 </div>
 
-<script src="js/contenido.js?v=8"></script>
-<script src="js/mapa.js?v=8"></script>
-<script src="js/audio.js?v=8"></script>
+<script src="js/textos.js?v=9"></script>
+<script src="js/contenido.js?v=9"></script>
+<script src="js/biblia-pt.js?v=9"></script>
+<script src="js/contenido-pt.js?v=9"></script>
+<script src="js/mapa.js?v=9"></script>
+<script src="js/audio.js?v=9"></script>
 </body>
 </html>
