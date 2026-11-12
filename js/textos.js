@@ -1,10 +1,10 @@
 // Idioma de la página y textos de la interfaz en español y portugués.
 // El idioma sale de ?lang=pt en el link; si no viene, del último que eligió la persona.
-const IDIOMAS_LISTOS = ["es"]; // se añade "pt" cuando estén todos los versículos en portugués (js/biblia-pt.js)
+const IDIOMAS_LISTOS = ["es", "pt"]; // idiomas que aparecen en el selector ES | PT
 
 const LANG = (() => {
   const pedido = new URLSearchParams(location.search).get("lang");
-  if (pedido && IDIOMAS_LISTOS.concat("pt").includes(pedido)) return pedido;
+  if (pedido && IDIOMAS_LISTOS.includes(pedido)) return pedido;
   try {
     const guardado = localStorage.getItem("lenguas-idioma");
     if (guardado && IDIOMAS_LISTOS.includes(guardado)) return guardado;

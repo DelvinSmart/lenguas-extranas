@@ -57,7 +57,12 @@ const BIBLIA_PT = {
     ["24","Porém, se todos profetizarem, e entrar algum incrédulo ou indouto, é ele por todos convencido e por todos julgado;"],
     ["25","tornam-se-lhe manifestos os segredos do coração, e, assim, prostrando-se com a face em terra, adorará a Deus, testemunhando que Deus está, de fato, no meio de vós."]
   ],
-  "Efésios 3:3-6 ARA": [["3",""],["4",""],["5",""],["6",""]],
+  "Efésios 3:3-6 ARA": [
+    ["3","pois, segundo uma revelação, me foi dado conhecer o mistério, conforme escrevi há pouco, resumidamente;"],
+    ["4","pelo que, quando ledes, podeis compreender o meu discernimento do mistério de Cristo,"],
+    ["5","o qual, em outras gerações, não foi dado a conhecer aos filhos dos homens, como, agora, foi revelado aos seus santos apóstolos e profetas, no Espírito,"],
+    ["6","a saber, que os gentios são coerdeiros, membros do mesmo corpo e coparticipantes da promessa em Cristo Jesus por meio do evangelho;"]
+  ],
   "1 Coríntios 14:9 ARC": [
     ["9","Assim, também vós, se, com a língua, não pronunciardes palavras bem inteligíveis, como se entenderá o que se diz? Porque estareis como que falando ao ar."]
   ],
