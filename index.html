@@ -6,7 +6,7 @@
   <title>Lenguas extrañas?</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,600;0,800;1,400&family=Archivo:wght@400;500;600;700&display=swap">
-  <link rel="stylesheet" href="css/styles.css?v=7">
+  <link rel="stylesheet" href="css/styles.css?v=8">
 </head>
 <body>
 <div class="wrap">
@@ -36,13 +36,27 @@
         <button id="next" type="button" aria-label="Punto siguiente">Siguiente →</button>
         <button id="tomap" class="tomap" type="button" aria-label="Volver al mapa">Mapa ↑</button>
       </div>
+      <div class="audio" id="audio">
+        <button id="aPlay" class="aprimary" type="button">▶ Escuchar este punto</button>
+        <button id="aAll" type="button">▶ Escuchar todo desde aquí</button>
+        <button id="aPause" class="aprimary" type="button" hidden>❚❚ Pausa</button>
+        <button id="aStop" type="button" hidden>■ Detener</button>
+        <label for="aRate">Velocidad
+          <select id="aRate">
+            <option value="0.8">Lenta</option>
+            <option value="1" selected>Normal</option>
+            <option value="1.2">Rápida</option>
+          </select>
+        </label>
+      </div>
     </div>
     <div class="rbody" id="rbody"></div>
-    <div class="hint">Toca cualquier punto del mapa, o usa ← → en el teclado para avanzar en orden. <a href="descargas/Mapa-Lenguas-extranas.pdf">Descargar PDF</a></div>
+    <div class="hint">Toca cualquier punto del mapa, o usa ← → en el teclado para avanzar en orden. Con “Escuchar” el dispositivo te lo lee en voz alta. <a href="descargas/Mapa-Lenguas-extranas.pdf">Descargar PDF</a></div>
   </aside>
 </div>
 
-<script src="js/contenido.js?v=7"></script>
-<script src="js/mapa.js?v=7"></script>
+<script src="js/contenido.js?v=8"></script>
+<script src="js/mapa.js?v=8"></script>
+<script src="js/audio.js?v=8"></script>
 </body>
 </html>

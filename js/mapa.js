@@ -40,6 +40,7 @@ function show(i, fromMap){
   chips.forEach((c, k) => c.classList.toggle("on", k === cur));
   if (fromMap && window.matchMedia("(max-width:920px)").matches) reader.scrollIntoView({ behavior: "smooth", block: "start" });
   try { localStorage.setItem("lenguas-paso", String(cur)); } catch (e) {}
+  document.dispatchEvent(new CustomEvent("punto", { detail: { index: cur } }));
 }
 document.getElementById("prev").addEventListener("click", () => show(cur - 1));
 document.getElementById("next").addEventListener("click", () => show(cur + 1));
