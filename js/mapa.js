@@ -1,6 +1,6 @@
 // Dibuja el mapa y el panel de lectura a partir de BRANCHES (js/contenido.js).
-// Order of the talk: término, paréntesis, fundamento histórico, Hechos, 1 Corintios
-const ORDERED = [0, 1, 4, 2, 3].map(i => BRANCHES[i]);
+// Order of the talk: término, paréntesis, fundamento histórico, Hechos, 1 Corintios, bautismo del Espíritu
+const ORDERED = [0, 1, 4, 2, 3, 5].map(i => BRANCHES[i]);
 const STEPS = [];
 ORDERED.forEach((b, bi) => b.leaves.forEach((l, li) => STEPS.push({ b, bi, l, li })));
 

@@ -95,11 +95,13 @@ ${H("Génesis 11:1-9 LBLA",[
 <p>Entonces Dios descendió, confundió su lengua para que no se entendieran unos a otros, y los dispersó por toda la tierra (Génesis 11:5-9). Fue por causa de su maldad, para que no siguieran creciendo en ella.</p>
 <p>Las tradiciones judías antiguas cuentan cosas impresionantes de esa torre. Una de ellas, el <i>Pirkei de-Rabbi Eliezer</i>, dice que era tan alta que tardaban un año en subir, y que si se caía un ladrillo lloraban, pero si se caía un hombre no les importaba. Eso no está en la Biblia, es tradición, pero nos deja imaginar la locura de un pueblo unido en una misma lengua para edificar algo que no edifica al Señor.</p>` },
     { label:"Babel y Pentecostés", nuevo:true, html:`
+<p>La Biblia está llena de conexiones entre el Antiguo y el Nuevo Testamento. Un estudio muy conocido, de Chris Harrison y Christoph Römhild, contó 63.779 referencias cruzadas, y esta es una de las más impactantes.</p>
 <p>Ahora, fíjense en la comparación, porque es bien profunda: el mismo Dios que confundió las lenguas en Babel es el que, en Pentecostés, usa esas mismas lenguas para unir a su pueblo.</p>
 <ul>
 <li><b>En Babel</b>, los hombres querían hacerse un nombre para ellos. <b>En Pentecostés</b>, hablaban de las maravillas de Dios (Hechos 2:11).</li>
 <li><b>En Babel</b>, las lenguas separaron a los pueblos y los dispersaron. <b>En Pentecostés</b>, gente de todas las naciones se juntó en un mismo lugar y entendió un mismo mensaje (Hechos 2:5-6).</li>
 <li><b>En Babel</b>, nadie entendía a nadie. <b>En Pentecostés</b>, cada uno entendía en su propio idioma.</li>
+<li><b>En Babel</b>, las lenguas fueron para que dejaran de edificar. <b>En Pentecostés</b>, fueron para edificar: era la fundación de la iglesia, que comenzó a partir de los apóstoles.</li>
 </ul>
 <p>Y aquí viene algo del griego que es bien fuerte. En la traducción griega del Antiguo Testamento, la Septuaginta, cuando Dios dice en Génesis 11:7 “confundamos su lengua”, la palabra es <span class="g">synchéō</span>, y a Babel la llama <span class="g">Sýnchysis</span>, que quiere decir “Confusión” (Génesis 11:9). Y en Hechos 2:6, cuando dice que la multitud estaba desconcertada, Lucas usa ese mismo verbo: <span class="g">synechýthē</span>. La misma palabra de Babel, pero ahora Dios la usa para bien.</p>
 <p>Pero ojo con un detalle: en Pentecostés Dios no borró los idiomas ni los volvió una sola lengua. Cada uno siguió oyendo su propio idioma, pero todos recibieron el mismo mensaje. Las lenguas de Babel fueron para separar; las de Pentecostés, para unir a la iglesia en adorar a Cristo. Desde los primeros siglos, maestros de la iglesia como Gregorio Nacianceno y Agustín de Hipona ya enseñaban que Pentecostés era lo contrario de Babel.</p>
@@ -183,6 +185,7 @@ ${H("Efesios 3:3-6 LBLA",[
     { label:"¿Qué pasó en la mente de esas personas?", nuevo:true, html:`
 <p>Pasaron los siglos, y a principios del siglo XX algunos intérpretes leyeron las traducciones, sobre todo las que decían "lengua desconocida" (como la King James, que dice <i>unknown tongue</i>, y esa palabra <i>unknown</i> no está en el griego). Sacaron esos textos de su contexto del siglo I y concluyeron que el don era emitir sonidos espirituales místicos, y no hablar idiomas extranjeros reales.</p>
 <p>Y fíjense en algo: el mismo Parham creía al comienzo que eran idiomas humanos reales, para mandar misioneros a otros países sin tener que estudiar el idioma. Cuando esos misioneros llegaron al campo y nadie les entendía, el movimiento lo terminó reinterpretando como un lenguaje de oración que nadie entiende.</p>
+<p>Piénsenlo así: desde Pentecostés, hacia el año 30, hasta Topeka en 1901, pasaron unos 1.870 años. Casi 1.900 años en que el Espíritu Santo salvaba y obraba en la iglesia sin que nadie enseñara esto como doctrina. Algo que comenzó hace unos 120 años no se puede volver una ley; puede ser una distorsión que se tomó como ley.</p>
 <p><b>Por eso es tan importante volver a los textos originales y al contexto histórico, porque ahí vemos lo que los creyentes de los siglos pasados entendían perfectamente antes de que naciera esta corriente moderna del siglo XX.</b></p>` },
     { label:"Oráculo de Delfos", html:`
 <h3>2. Sobre las prácticas paganas antiguas (Oráculos de Delfos y Corinto)</h3>
@@ -196,5 +199,37 @@ ${H("Efesios 3:3-6 LBLA",[
 <li>El Léxico Griego-Inglés del Nuevo Testamento de Walter Bauer y Frederick Danker (conocido como BDAG), donde se define diermēneuō como traducir de un idioma a otro o explicar con claridad el significado de algo.</li>
 <li>El Diccionario Teológico del Nuevo Testamento (TDNT), editado por Gerhard Kittel, que analiza cómo en el mundo clásico helenístico esta familia de palabras se usaba principalmente para la traducción lingüística literal entre diferentes pueblos e idiomas (por ejemplo, pasar del arameo al griego).</li>
 </ul></li></ul>` }
+  ]},
+  { title:"¿Todos deben hablar en lenguas?", sub:"El bautismo del Espíritu Santo", color:"--b1", leaves:[
+    { label:"Bautizados por un mismo Espíritu", nuevo:true, html:`
+<p>Y ahora vamos a lo que hoy se enseña en muchas iglesias: que si la persona fue bautizada con el Espíritu Santo, obligatoriamente tiene que hablar en lenguas, y si no habla, es porque no lo recibió. Eso fue lo que enseñó Parham en 1901. Pero vamos a ver qué dice la Biblia.</p>
+${H("1 Corintios 12:13 LBLA",[
+["13","Pues por un mismo Espíritu todos fuimos bautizados en un solo cuerpo, ya judíos o griegos, ya esclavos o libres, y a todos se nos dio a beber del mismo Espíritu."]
+])}
+<p>Fíjense: dice <b>todos</b>. Todos los creyentes fueron bautizados por el mismo Espíritu en un solo cuerpo, judíos o griegos, esclavos o libres. No dice “todos los que hablaron en lenguas”. El Espíritu Santo entra en la vida de la persona cuando ella acepta el llamado de Dios, y desde ese momento comienza a hacer su obra.</p>
+${H("1 Corintios 12:30 LBLA",[
+["30","¿Acaso tienen todos dones de sanidad? ¿Acaso hablan todos en lenguas? ¿Acaso interpretan todos?"]
+])}
+<p>Y aquí Pablo hace una pregunta. En el griego, la forma de la pregunta (con la palabra <span class="g">mē</span>) espera que la respuesta sea “no”. O sea: ¿hablan todos en lenguas? No. ¿Todos tienen dones de sanidad? No. Cada uno recibe el don que el Espíritu quiere darle (1 Corintios 12:11).</p>
+<p><b>Entonces, si todos fueron bautizados por el Espíritu (v13), pero no todos hablan en lenguas (v30), las lenguas no pueden ser la prueba obligatoria del bautismo del Espíritu Santo.</b></p>` },
+    { label:"El fruto del Espíritu", nuevo:true, html:`
+<p>¿Y entonces cuál es la prueba de que una persona está llena del Espíritu Santo? La Biblia lo dice claro: el fruto.</p>
+${H("Gálatas 5:22-23 LBLA",[
+["22","Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fidelidad,"],
+["23","mansedumbre, dominio propio; contra tales cosas no hay ley."]
+])}
+<p>Ser bautizado por el Espíritu Santo significa comenzar a dar frutos, frutos dignos de arrepentimiento (Mateo 3:8). Esos frutos van creciendo dentro de la persona, y son ellos los que muestran que realmente esa persona ha sido llena del Espíritu Santo.</p>
+<p><b>Fíjense que en esa lista no aparece hablar en lenguas.</b></p>` },
+    { label:"El eunuco: creyó y no habló en lenguas", nuevo:true, html:`
+<p>Y tenemos un ejemplo bien claro en Hechos 8: el eunuco etíope. Él ya venía leyendo las Escrituras, el libro de Isaías, y Felipe, guiado por un ángel del Señor y por el Espíritu (Hechos 8:26-29), llegó hasta él y le anunció el evangelio de Jesús.</p>
+${H("Hechos 8:35-39 LBLA",[
+["35","Entonces Felipe abrió su boca, y comenzando desde esta Escritura, le anunció el evangelio de Jesús."],
+["36","Yendo por el camino, llegaron a un lugar donde había agua; y el eunuco dijo*: Mira, agua. ¿Qué impide que yo sea bautizado?"],
+["37","[Y Felipe dijo: Si crees con todo tu corazón, puedes. Respondió él y dijo: Creo que Jesucristo es el Hijo de Dios.]"],
+["38","Y mandó parar el carruaje; ambos descendieron al agua, Felipe y el eunuco, y lo bautizó."],
+["39","Al salir ellos del agua, el Espíritu del Señor arrebató a Felipe; y no lo vio más el eunuco, que continuó su camino gozoso."]
+])}
+<p>Fíjense: el eunuco creyó, fue bautizado y continuó su camino gozoso. Gozo, que es fruto del Espíritu. Pero el texto no dice en ninguna parte que habló en lenguas. Y el mismo Espíritu que obraba en su vida fue el que llevó a Felipe hasta ese camino y después lo arrebató de allí.</p>
+<p>Un detalle importante para el debate: el versículo 37 la LBLA lo pone entre corchetes, porque no aparece en los manuscritos griegos más antiguos. Por eso no basamos nada en ese versículo; el punto se sostiene con los versículos 35, 36, 38 y 39.</p>` }
   ]}
 ];
