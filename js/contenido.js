@@ -103,7 +103,10 @@ ${H("Génesis 11:1-9 LBLA",[
 </ul>
 <p>Y aquí viene algo del griego que es bien fuerte. En la traducción griega del Antiguo Testamento, la Septuaginta, cuando Dios dice en Génesis 11:7 “confundamos su lengua”, la palabra es <span class="g">synchéō</span>, y a Babel la llama <span class="g">Sýnchysis</span>, que quiere decir “Confusión” (Génesis 11:9). Y en Hechos 2:6, cuando dice que la multitud estaba desconcertada, Lucas usa ese mismo verbo: <span class="g">synechýthē</span>. La misma palabra de Babel, pero ahora Dios la usa para bien.</p>
 <p>Pero ojo con un detalle: en Pentecostés Dios no borró los idiomas ni los volvió una sola lengua. Cada uno siguió oyendo su propio idioma, pero todos recibieron el mismo mensaje. Las lenguas de Babel fueron para separar; las de Pentecostés, para unir a la iglesia en adorar a Cristo. Desde los primeros siglos, maestros de la iglesia como Gregorio Nacianceno y Agustín de Hipona ya enseñaban que Pentecostés era lo contrario de Babel.</p>
-<p><b>Y esto prueba una vez más que las lenguas de Pentecostés eran idiomas humanos reales, los mismos idiomas que nacieron en Babel. Lo que Dios dividió en Babel por causa del pecado, lo usa en Pentecostés para que todas las naciones oigan el evangelio, como ya lo había anunciado el profeta en Sofonías 3:9.</b></p>` }
+<p><b>Y esto prueba una vez más que las lenguas de Pentecostés eran idiomas humanos reales, los mismos idiomas que nacieron en Babel. Lo que Dios dividió en Babel por causa del pecado, lo usa en Pentecostés para que todas las naciones oigan el evangelio, como ya lo había anunciado el profeta en Sofonías 3:9.</b></p>
+${H("Sofonías 3:9 LBLA",[
+["9","En ese tiempo daré a los pueblos labios puros, para que todos ellos invoquen el nombre del <span class='sc'>Señor</span>, para que le sirvan de común acuerdo."]
+])}` }
   ]},
   { title:"1 Corintios capítulo 14", sub:"Las directrices de Pablo", color:"--b5", leaves:[
     { label:"1 Corintios 14:1-25", html:`
