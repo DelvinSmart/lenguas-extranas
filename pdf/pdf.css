@@ -1,0 +1,37 @@
+@page{size:A4;margin:0}
+html{background:var(--bg);-webkit-print-color-adjust:exact;print-color-adjust:exact}
+:root{--bg:#000000;--ink:#FFFFFF;--muted:#B8BDCC;--line:#3A3F50;--accent:#9DAEFF;
+--b1:#9DAEFF;--b2:#CDA2EC;--b3:#5FD3C1;--b4:#FF9E6B;--b5:#F08DBF;--b6:#E5C25A;--verse-bg:#15171F;
+--display:"Alegreya",Georgia,serif;--body:"Archivo",-apple-system,"Segoe UI",sans-serif}
+*{box-sizing:border-box}
+body{margin:0;color:var(--ink);background:var(--bg);font-family:var(--body);font-size:11pt;line-height:1.5}
+h1{font-family:var(--display);font-weight:800;font-size:34pt;margin:0 0 8px}
+.q{margin:0 0 6px;padding:0;list-style:none}.q li{font-family:var(--display);font-size:13pt;padding-left:14px;position:relative;margin-bottom:3px}
+.q li::before{content:"";position:absolute;left:0;top:.6em;width:6px;height:6px;border-radius:50%;background:var(--accent)}
+.yb{font-family:var(--display);font-weight:800;font-size:13pt;margin:6px 0 18px}
+.ov{border-left:2px solid var(--line);padding-left:16px}
+.ob{margin:0 0 12px;break-inside:avoid}
+.oh{display:flex;align-items:center;gap:8px;font-family:var(--display);font-weight:800;font-size:15pt}
+.num{width:24px;height:24px;border-radius:50%;background:var(--c);color:var(--bg);display:inline-grid;place-items:center;font-family:var(--body);font-size:10pt;font-weight:700}
+.ol{display:flex;flex-wrap:wrap;gap:5px;margin:6px 0 0 32px}
+.ol span{font-size:9.5pt;border:1.2px solid var(--c);border-radius:999px;padding:2px 9px}
+.ol b{color:var(--c);margin-right:4px}
+.sec{break-before:page}
+.sh{display:flex;align-items:center;gap:10px;border-bottom:2px solid var(--c);padding-bottom:6px;margin-bottom:12px}
+.sh .t{font-family:var(--display);font-weight:800;font-size:20pt;line-height:1.1}
+.sh small{display:block;font-family:var(--body);font-size:8.5pt;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.pt{margin:0 0 16px}
+.pl{font-family:var(--display);font-weight:800;font-size:13.5pt;color:var(--c);margin:0 0 6px;break-after:avoid}
+.pl .n{font-family:var(--body);font-size:10pt;margin-right:6px}
+.new{font-family:var(--body);font-size:7.5pt;font-weight:700;text-transform:uppercase;letter-spacing:.06em;border:1px solid currentColor;border-radius:999px;padding:0 6px;margin-left:6px;vertical-align:2px}
+.pt p{margin:0 0 8px}.pt ul,.pt ol{margin:0 0 8px;padding-left:20px}.pt li{margin-bottom:5px}
+.pt h3{font-family:var(--display);font-size:12.5pt;margin:8px 0 5px}
+.g{font-style:italic;font-weight:700}
+.passage{background:var(--verse-bg);border-left:3px solid var(--c);border-radius:3px 8px 8px 3px;padding:10px 14px;margin:0 0 10px;font-family:var(--display);font-size:12pt;line-height:1.5}
+.passage .ref{font-family:var(--body);font-weight:700;font-size:8.5pt;letter-spacing:.06em;text-transform:uppercase;color:var(--c);margin-bottom:5px}
+.passage p{margin:0 0 4px;break-inside:avoid}.passage p b{font-family:var(--body);font-size:8.5pt;color:var(--c);margin-right:3px}
+
+/* Repeated empty header/footer rows give every page its top and bottom margin on the black background */
+.page{width:100%;border-collapse:collapse}
+.page td{padding:0 15mm}
+.page thead td,.page tfoot td{height:14mm}
