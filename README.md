@@ -1,15 +1,12 @@
-# Lenguas extrañas?
+# Lenguas extrañas? (movido)
 
-Mapa para exponer el tema "Lenguas extrañas?", punto por punto.
+Este estudio ahora está en **Estudios Bíblicos**: https://delvinsmart.github.io/estudios-biblicos/
 
-- `index.html`: la página.
-- `css/styles.css`: colores, letras y diseño.
-- `js/textos.js`: idioma de la página y textos de botones y portada (español y portugués).
-- `js/contenido.js`: el texto de cada rama y cada punto en español (aquí se cambia el contenido).
-- `js/contenido-pt.js`: el mismo contenido en portugués.
-- `js/biblia-pt.js`: los versículos en portugués (ARA y ARC).
-- `js/mapa.js`: dibuja el mapa y el panel de lectura.
-- `descargas/Mapa-Lenguas-extranas.pdf` y `descargas/Mapa-Linguas-estranhas.pdf`: versiones en PDF, en español y portugués, para leer sin internet (fondo negro, letras blancas).
-- `pdf/`: la página que arma el PDF. Para volver a generarlo después de cambiar el texto: `./pdf/generar-pdf.sh`
+Este repositorio solo redirige el link viejo (`delvinsmart.github.io/lenguas-extranas`) al estudio nuevo,
+para que los links que ya se compartieron sigan funcionando:
 
-Para verlo en tu computadora, abre `index.html` en el navegador. En portugués: `index.html?lang=pt`.
+- `/` → Lenguas extrañas (español). Con `?lang=pt` → Línguas estranhas (portugués).
+- `/descargas/…pdf` → los PDF nuevos.
+- Cualquier otra dirección → la página de inicio de Estudios Bíblicos.
+
+El proyecto completo original está guardado en la SSD, en `Developer/_archivo/lenguas-extranas-original`.
