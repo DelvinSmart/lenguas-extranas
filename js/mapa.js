@@ -43,6 +43,10 @@ function show(i, fromMap){
 }
 document.getElementById("prev").addEventListener("click", () => show(cur - 1));
 document.getElementById("next").addEventListener("click", () => show(cur + 1));
+document.getElementById("tomap").addEventListener("click", () => {
+  chips[cur].scrollIntoView({ behavior: "smooth", block: "center" });
+  chips[cur].focus({ preventScroll: true });
+});
 document.addEventListener("keydown", e => {
   if (e.key === "ArrowRight") show(cur + 1);
   if (e.key === "ArrowLeft") show(cur - 1);

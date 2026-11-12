@@ -77,3 +77,16 @@ button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 .hint a{color:var(--accent);font-weight:600}
 body{margin:0}
+
+/* Teléfono y iPad vertical: botones de lectura siempre a mano y regreso al mapa */
+.tomap{display:none}
+@media (max-width:920px){
+  .rtop{position:sticky;top:env(safe-area-inset-top, 0px);z-index:2;background:var(--surface);border-radius:14px 14px 0 0}
+  .tomap{display:inline-block}
+  .nav button{padding:9px 12px}
+  .leaf{padding:8px 13px}
+}
+@media (max-width:480px){
+  .rlabel{font-size:19px}
+  .leaves{margin-left:0}
+}
